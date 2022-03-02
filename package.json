@@ -1,0 +1,25 @@
+{
+  "name": "ngx-image-cache",
+  "version": "0.0.1",
+  "description": "Angular library for caching image source",
+  "keywords": [
+    "angular",
+    "library",
+    "image",
+    "caching"
+  ],
+  "repository": "https://github.com/adityamr15/ngx-image-cache",
+  "author": "Aditya Meilaz Rahmanto <adityamr15@gmail.com> (https://github.com/adityamr15)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityamr15/ngx-image-cache/issues"
+  },
+  "homepage": "https://github.com/adityamr15/ngx-image-cache#readme",
+  "peerDependencies": {
+    "@angular/common": "^10.0.0",
+    "@angular/core": "^10.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
