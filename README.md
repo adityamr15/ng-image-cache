@@ -1,3 +1,7 @@
+![npm](https://img.shields.io/npm/v/ngx-image-cache?style=flat-square&logo=npm)
+![npm](https://img.shields.io/npm/dt/ngx-image-cache?color=4caf50&logo=react-native-wheel-picker-expo&style=flat-square)
+![npm type definitions](https://img.shields.io/npm/types/ngx-image-cache?style=flat-square)
+
 # ngx-image-cache
 
 This library will stored image base64 data to windows object and `<img/>` element will be load image data from windows object.  
